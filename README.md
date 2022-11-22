@@ -1,24 +1,63 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-Things you may want to cover:
+# Rails API only Hello World 
 
-* Ruby version
+> This is a demonstration project how to use React as a front-end for Rails prject
 
-* System dependencies
+## Built With
 
-* Configuration
+- Major languages:ruby on rails
 
-* Database creation
 
-* Database initialization
+## Live Demo 
 
-* How to run the test suite
+[comming soon]()
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Getting Started
 
-* ...
+-
+
+### Prerequisites
+- ruby version (3.0) or above
+- Rails 7.0 or above
+- Postgresql db
+
+### Setup & Installation
+- Clone the repo (git@github.com:jaferIdrees/rails_api_hello.git)
+- run (bundle install) command
+- Clone the front-end repo (git@github.com:jaferIdrees/react_client_ror.git)
+- run (npm i) command
+### Usage
+- on the first console session (for the RoR app)
+- run (rails s -p 8000)
+- on a second console session (for the front-end app)
+- run (npm start)
+- on the browser navigate to ('http://localhost:3000/')
+- Enjoy ...........
+
+
+## Author
+
+👤 **Ja'fer Yousef**
+
+- GitHub: [@githubhandle](https://github.com/jaferIdrees)
+- Twitter: [@twitterhandle](https://twitter.com/jafel_l)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/jaferll)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/jaferIdrees/rails_api_hello/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse team
