@@ -10,7 +10,8 @@ class MessagesController < ApplicationController
 
   # GET /messages/1
   def show
-    render json: @message
+    @message = Message.all.sample
+    render json: @message.to_json
   end
 
   # POST /messages
